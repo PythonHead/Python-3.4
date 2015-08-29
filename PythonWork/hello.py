@@ -5,4 +5,6 @@ Type "copyright", "credits" or "license()" for more information.
 Visit http://www.python.org/download/mac/tcltk/ for current information.
 print("Hello_World")
 Hello_World
->>> 
+>>>
+print('Hello World')
+
